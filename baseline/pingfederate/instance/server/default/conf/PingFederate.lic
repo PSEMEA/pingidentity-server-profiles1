@@ -1,0 +1,13 @@
+ID=00224718
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=10.3
+EnforcementType=3
+Tier=Free
+IssueDate=2021-07-19
+ExpirationDate=2025-08-01
+DeploymentMethod=Traditional
+SignCode=FF07
+Signature=302C02144943A326A838865F506209A25B9EC9010714573B02141CEADBB35EBDB31BCA583B2271C27A49ED0A9808
