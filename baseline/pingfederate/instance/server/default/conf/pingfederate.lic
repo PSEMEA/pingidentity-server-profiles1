@@ -1,0 +1,13 @@
+ID=00396040
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.1
+EnforcementType=3
+Tier=Free
+IssueDate=2022-06-29
+ExpirationDate=2023-07-29
+DeploymentMethod=Traditional
+SignCode=FF07
+Signature=302C021445BD9FF14698B74DB1D71444B5B23027D7986583021422B29D3BDBA645876C68EF84C15CB564D533E764
